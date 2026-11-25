@@ -13,6 +13,14 @@ written for the make.fun bounty "Your Week in One Line".
 
 (83 characters — under the 100-character limit.)
 
+## Design
+
+The line is built as a three-beat arc across the week. It opens with a win
+("Won Monday"), collapses the next day ("broke everything Tuesday"), and
+lands on Friday with the chaos no longer a problem but a spectacle — it has
+"its own fan club". The joke is the escalation: from a good day, to a bad
+day, to a week so gloriously messy that people are cheering for it.
+
 ## How to run
 
 ```sh
